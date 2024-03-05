@@ -23,6 +23,13 @@
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                        |
 
 *Credit for the SVG icons:* [github/tandpfun](https://github.com/tandpfun/skill-icons/)
+
+### GPG KEYS
+- D2B0C2CD2BAC465C = commits, authenticated over SSH
+- B5690EEEBB952194 = github commits
+
+Note for the SSH commits: I added the GPG authentication at this date: March 5th 2024 starting from [this commit](https://github.com/1Kill2Steal/nighttab-browser-theme/commit/7d1fc1570973ee78f1555d8f19fc8e6544bb6e53).
+
 <!--
 **1Kill2Steal/1kill2steal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
