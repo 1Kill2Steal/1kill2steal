@@ -1,4 +1,4 @@
-<h3 align="center">My name is Ivan and these are some of my projects:</h3>
+<h3 align="center">My name is Ivan and these are some of my projects</h3>
 
 ---
 
@@ -34,6 +34,24 @@
         ⊱
         <a href="https://github.com/1Kill2Steal/serenity-discord-bot"
           >Serenity-rs &amp; Poise Rust Discord bot</a
+        >
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img
+          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg"
+          style="width: 2rem"
+        />
+        <img
+          src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Yew-Light.svg"
+          style="width: 2rem"
+        />
+      </td>
+      <td align="left">
+        ⊱
+        <a href="https://github.com/1Kill2Steal/yew-site"
+          >Yew &amp; Yew router SPA (Single Page Application)</a
         >
       </td>
     </tr>
