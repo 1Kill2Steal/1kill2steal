@@ -13,7 +13,7 @@
     <tr>
       <td align="center">
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/Rust.svg"
           style="width: 2rem"
         />
         <img
@@ -26,7 +26,7 @@
           style="width: 2rem"
         />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GithubActions-Light.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/GithubActions-Light.svg"
           style="width: 2rem"
         />
       </td>
@@ -40,11 +40,11 @@
     <tr>
       <td align="center">
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/Rust.svg"
           style="width: 2rem"
         />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Yew-Light.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/Yew-Light.svg"
           style="width: 2rem"
         />
       </td>
@@ -58,11 +58,11 @@
     <tr>
       <td align="center">
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/Rust.svg"
           style="width: 2rem"
         />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GithubActions-Light.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/GithubActions-Light.svg"
           style="width: 2rem"
         />
       </td>
@@ -77,16 +77,16 @@
     <tr>
       <td align="center">
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/HTML.svg"
           style="width: 2rem"
         />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/CSS.svg"
           style="width: 2rem"
         />
         <br />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TypeScript.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/TypeScript.svg"
           style="width: 2rem"
         />
       </td>
@@ -100,16 +100,16 @@
     <tr>
       <td align="center">
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TypeScript.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/TypeScript.svg"
           style="width: 2rem"
         />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NodeJS-Light.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/NodeJS-Light.svg"
           style="width: 2rem"
         />
         <br />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MongoDB.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/MongoDB.svg"
           style="width: 2rem"
         />
       </td>
@@ -124,7 +124,7 @@
     <tr>
       <td align="center">
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/Rust.svg"
           style="width: 2rem"
         />
       </td>
@@ -138,7 +138,7 @@
     <tr>
       <td align="center">
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/C.svg"
           style="width: 2rem"
         />
       </td>
@@ -155,7 +155,7 @@
     <tr>
       <td align="center">
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CPP.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/CPP.svg"
           style="width: 2rem"
         />
       </td>
@@ -171,20 +171,20 @@
     <tr>
       <td align="center">
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Linux-Light.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/Linux-Light.svg"
           style="width: 2rem"
         />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/Git.svg"
           style="width: 2rem"
         />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/Bash-Dark.svg"
           style="width: 2rem"
         />
         <br />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NeoVim-Light.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/NeoVim-Light.svg"
           style="width: 2rem"
         />
         <img
@@ -192,7 +192,7 @@
           style="width: 2rem"
         />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GithubActions-Light.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/GithubActions-Light.svg"
           style="width: 2rem"
         />
       </td>
@@ -222,15 +222,15 @@
     <tr>
       <td align="center">
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Photoshop.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/Photoshop.svg"
           style="width: 2rem"
         />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AfterEffects.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/AfterEffects.svg"
           style="width: 2rem"
         />
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Premiere.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/Premiere.svg"
           style="width: 2rem"
         />
       </td>
@@ -254,7 +254,7 @@
     <tr>
       <td align="center">
         <img
-          src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg"
+          src="https://raw.githubusercontent.com/1Kill2Steal/skill-icons/main/icons/Discord.svg"
           style="width: 2rem"
         />
       </td>
@@ -295,24 +295,27 @@
   <a href="https://github.com/tandpfun/skill-icons/">github/tandpfun</a>
 </p>
 
-
 ---
 
 <p align="center">
   <a href="https://github.com/1kill2steal">
-    <img src="https://github-readme-stats.vercel.app/api?username=1kill2steal&theme=tokyonight&show_icons=true">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=1kill2steal&theme=tokyonight&show_icons=true"
+    />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/1kill2steal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1kill2steal&hide=javascript,css,scss,html,php,lua,nushell,red,powershell,dockerfile&theme=tokyonight&show_icons=true">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=1kill2steal&hide=javascript,css,scss,html,php,lua,nushell,red,powershell,dockerfile&theme=tokyonight&show_icons=true"
+    />
   </a>
 </p>
 
 ---
 
 ### GPG KEYS
-- D2B0C2CD2BAC465C = commits, authenticated over SSH
-- B5690EEEBB952194 = github commits
+D2B0C2CD2BAC465C = commits, authenticated over SSH
+- Note for the SSH commits: I added the GPG authentication at this date: `March 5th 2024` starting from [this commit](https://github.com/1Kill2Steal/nighttab-browser-theme/commit/7d1fc1570973ee78f1555d8f19fc8e6544bb6e53).
 
-Note for the SSH commits: I added the GPG authentication at this date: `March 5th 2024` starting from [this commit](https://github.com/1Kill2Steal/nighttab-browser-theme/commit/7d1fc1570973ee78f1555d8f19fc8e6544bb6e53).
+B5690EEEBB952194 = GitHub commits
