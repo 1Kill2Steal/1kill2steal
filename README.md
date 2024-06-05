@@ -1,3 +1,8 @@
+> [!NOTE]
+> Moved account over to: https://github.com/1Git2Clone
+> 
+> Will occassionally use this one (but not a lot most likely).
+
 <h3 align="center">My name is Ivan and these are some of my projects</h3>
 
 ---
